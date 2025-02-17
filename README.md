@@ -36,4 +36,4 @@ To move forward, I will first need to establish an efficient method for data col
 
 ## Acknowledgments
 
-I would like to thank my friend Šimon, who originally came up with this idea and had a long discussion with me about developing this tool.
+I would like to thank my friend Šimon, who originally came up with this idea and had a long discussion with me about how we could develop this tool.
