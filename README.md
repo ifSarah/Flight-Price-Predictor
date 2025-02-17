@@ -1,4 +1,4 @@
-## Flight-Price-Predictor
+## Flight Price Predictor
 
 Final project for the Building AI course.
 
