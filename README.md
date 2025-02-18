@@ -20,7 +20,7 @@ The AI model would be based on supervised learning, using historical flight pric
 
 ## Challenges
 
-* Predictions will noť always be accurate – flight prices are influenced by a lot of unpredictable factors, like demand changes, airline policies, and external events. While the AI can identify trends, it wwill not guarantee the lowest price every time.
+* Predictions will noť always be accurate – flight prices are influenced by a lot of unpredictable factors, like demand changes, airline policies, and external events. While the AI can identify trends, it will not guarantee the lowest price every time.
 * Airline countermeasures – if this tool becomes popular, airlines may adjust pricing strategies to prevent predictive tools from working effectively.
 * Data collection – continuously gathering and maintaining accurate price data from airline websites could be technically challenging, especially if airlines restrict access or change how they display prices.
 
