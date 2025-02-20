@@ -1,3 +1,7 @@
+git add README.md
+git commit -m "Fix README title issue"
+git push origin main
+
 ## Flight Price Predictor
 
 Final project for the Building AI course.
